@@ -99,7 +99,7 @@ Precisamos da ajuda da comunidade para resolver este problema. Há várias manei
 3. **Participar das Discussões**:
    - Junte-se às discussões na seção de **Issues** e **Discussions** para sugerir novas abordagens, compartilhar ideias e ajudar na solução.
 
-👉 **Link para Discussão**: [https://github.com/seu-usuario/seu-repositorio/discussions/1](https://github.com/seu-usuario/seu-repositorio/discussions/1)
+👉 **Link para Discussão**: https://github.com/1743385/Emergencia-IA-Modelos-Aprendendo-a-Mentir/discussions/2
 
 
 ## Próximos Passos
